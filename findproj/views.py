@@ -116,6 +116,7 @@ def mask_loader(request, l_s):
         print("Mask error " + e)
 
 
+
 class MaskCamera(object):
     """Access the web cam and show the mask images as feed."""
 
